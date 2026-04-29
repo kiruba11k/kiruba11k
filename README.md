@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KIRUBAKARAN%20PERIYASAMY&fontAlign=50&fontAlignY=40&color=0:050510,25:120a2a,50:1a1240,75:0f2a4d,100:04070d&fontColor=66fcf1&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20RAG%20Architect&descAlignY=65&descAlign=50" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=KIRUBAKARAN%20PERIYASAMY&fontSize=44&fontAlign=50&fontAlignY=38&color=0:050510,25:120a2a,50:1a1240,75:0f2a4d,100:04070d&fontColor=66fcf1&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%7C%20Generative%20AI%20Builder%20%7C%20RAG%20Architect&descAlignY=66&descAlign=50" alt="header" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2800&pause=800&color=7DF9FF&center=true&vCenter=true&width=1100&lines=Engineering+Production-Grade+AI+Systems;Autonomous+Agents+%E2%80%A2+Advanced+RAG+%E2%80%A2+LLM+Fine-Tuning;Building+the+2050+AI+Stack+Today)](https://git.io/typing-svg)
 
@@ -129,6 +129,17 @@ Production OCR-to-entity extraction pipeline for contact intelligence from unstr
 </tr>
 </table>
 
+### 🚀 All GitHub Projects
+
+<div align="center">
+
+<a href="https://github.com/kiruba11k?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-7DF9FF?style=for-the-badge&logo=github&logoColor=05070d" /></a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiruba11k&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiruba11k&theme=tokyonight" width="48%" />
+
+</div>
+
 ---
 
 ## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22" /> GitHub Analytics
@@ -148,9 +159,26 @@ Production OCR-to-entity extraction pipeline for contact intelligence from unstr
 
 ## <img src="https://img.icons8.com/fluency/28/network.png" width="22" /> System Design & AI Expertise
 
-```text
-[Data Ingestion] -> [Feature / Document Pipelines] -> [Model or LLM Layer] -> [Validation] -> [API Serving] -> [Monitoring & Iteration]
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[🌐 Data Ingestion] --> B[🧩 Feature / Document Pipelines]
+    B --> C[🧠 Model or LLM Layer]
+    C --> D[✅ Validation]
+    D --> E[🚀 API Serving]
+    E --> F[📊 Monitoring & Iteration]
+    F -. Feedback Loop .-> B
+
+    style A fill:#0d1117,stroke:#66fcf1,stroke-width:2px,color:#e6f1ff
+    style B fill:#131a2a,stroke:#8b7bff,stroke-width:2px,color:#e6f1ff
+    style C fill:#1a1230,stroke:#ff7bf1,stroke-width:2px,color:#e6f1ff
+    style D fill:#112233,stroke:#7df9ff,stroke-width:2px,color:#e6f1ff
+    style E fill:#102d2d,stroke:#4df0b5,stroke-width:2px,color:#e6f1ff
+    style F fill:#20152b,stroke:#f7b267,stroke-width:2px,color:#e6f1ff
 ```
+
+</div>
 
 - **RAG Systems:** Document chunking, embedding, vector retrieval, cross-encoder re-ranking, citation-grounded responses.
 - **LLM Applications:** SFT workflows, LoRA/QLoRA adaptation, prompt engineering, agentic orchestration with LangGraph.
